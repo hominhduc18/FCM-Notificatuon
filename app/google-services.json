@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "706960269259",
+    "project_id": "notifiication-d01be",
+    "storage_bucket": "notifiication-d01be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706960269259:android:236ec8cd86764627f4a04e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706960269259-4fhsdjmnov05a0ssdpest2n7ku5ugmtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXfIIPiqW51hIv3z6OUIScN28VXVzK3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706960269259-4fhsdjmnov05a0ssdpest2n7ku5ugmtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706960269259:android:b5c9e47bd5cedc31f4a04e",
+        "android_client_info": {
+          "package_name": "com.trebig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706960269259-4fhsdjmnov05a0ssdpest2n7ku5ugmtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXfIIPiqW51hIv3z6OUIScN28VXVzK3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706960269259-4fhsdjmnov05a0ssdpest2n7ku5ugmtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
